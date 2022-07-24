@@ -1,0 +1,7 @@
+This is the fontlog.txt file for the font That Nogo Font Casual.
+
+That Nogo Font Casual is handwritten, mainly for comic speech bubbles. This is my first font, and typography isn't one of my major passions or hobbies, so it's likely very rough around the edges. This was mostly made for my own personal use, but if others find any use for it, so much the better!
+
+Changelog: no changes currently.
+
+That Nogo Font is made by HandWrittenSquare (https://fontlibrary.org/en/member/HandWrittenSquar), drawn in Krita (http://krita.org/), vectorized in Inkscape (https://inkscape.org/), and turned into a useable font with FontForge (http://fontforge.github.io/).
